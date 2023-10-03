@@ -1,0 +1,9 @@
+export const GET_LTC_FROM_STORAGE = "GET_LTC_FROM_STORAGE";
+export const ADD_TO_LTC = "ADD_TO_LTC";
+export const CLEAR_LTC = "CLEAR_LTC";
+export const REMOVE_FROM_LTC = "REMOVE_FROM_LTC";
+export const SUBTRACT_FROM_LTC = "SUBTRACT_FROM_LTC";
+export const LOCAL_STORAGE_LTC_KEY = "MY_E_COMMERCE_LOCAL_STORAGE_KEY";
+export const GET_LTC_RATE = "GET_LTC_RATE";
+export const GET_PAY_LTCBLOCK = "GET_PAY_LTCBLOCK";
+export const IS_LOADING = "IS_LOADING";

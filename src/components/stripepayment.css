@@ -1,0 +1,16 @@
+.sr-result {
+  height: 400px;
+  width:250px;
+  padding: 20px;
+  -webkit-transition: height 1s ease;
+  -moz-transition: height 1s ease;
+  -o-transition: height 1s ease;
+  transition: height 1s ease;
+  color: var(--font-color);
+  overflow: auto;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: 3px solid #14e5cd;
+    border-radius: 10px;
+}  
